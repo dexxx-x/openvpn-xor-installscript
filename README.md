@@ -29,7 +29,7 @@ bash openvpn_xor_install.sh
 
 or from here (x0r2d2 script)
 ```
-curl -O https://raw.githubusercontent.com/dexxx-x/openvpn-xor-installscript/main/openvpn-install.sh
+wget https://raw.githubusercontent.com/dexxx-x/openvpn-xor-installscript/main/openvpn_xor_install.sh 
 chmod +x openvpn_xor_install.sh
 bash openvpn_xor_install.sh
 ```
